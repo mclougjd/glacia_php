@@ -1,6 +1,6 @@
 <?php
 
-// Show all information, defaults to INFO_ALL
-phpinfo();
 
 ?>
+
+<h1> Changed on c9 </h1>
